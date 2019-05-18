@@ -4,7 +4,8 @@
 
 # **Python入门**
 **学习大纲如下：**
-* 安装与配置
+* [代码规范](./src/python/chapter-0/article/chapter00.md)
+* [安装与配置](./src/python/chapter-1/article/chapter01.md)
 * 基本语法
 * 数据类型及操作
 * 函数
