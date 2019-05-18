@@ -1,4 +1,7 @@
 # 安装和配置
 
-##dd
+## python安装
+## anaconda安装
+
+
 
