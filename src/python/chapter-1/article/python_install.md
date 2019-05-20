@@ -11,7 +11,7 @@ Python 是跨平台的，它可以运行在 Windows、Mac 和各种 Linux/Unix �
 
 解释器下载地址：https://www.python.org/downloads/
 
-## 一、安装步骤
+## 1、安装步骤
 ![01](../images/python01.png)
 
 ![02](../images/python02.png)
@@ -25,7 +25,7 @@ Python 是跨平台的，它可以运行在 Windows、Mac 和各种 Linux/Unix �
 **验证是否安装成功**
 ![06](../images/python06.png)
 
-## 二、可以执行python程序的重要两点
+## 2、可以执行python程序的重要两点
   - 解释器
 
   - 包集合
