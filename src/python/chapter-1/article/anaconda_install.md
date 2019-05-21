@@ -33,3 +33,15 @@ Conda是一个开源的包、环境管理器，可以用于在同一个机器上
 > - Jupyter notebook ：基于web的交互式计算环境，可以编辑易于人们阅读的文档，用于展示数据分析的过程。
 > - qtconsole ：一个可执行 IPython 的仿终端图形界面程序，相比 Python Shell 界面，qtconsole 可以直接显示代码生成的图形，实现多行代码输入执行，以及内置许多有用的功能和函数。
 > - spyder ：一个使用Python语言、跨平台的、科学运算集成开发环境。
+
+jupyter notebook默认打开的位置是程序安装目录，如果想打开指定目录，只需要在cmd下切换到指定目录，然后执行 jupyter notebook。
+
+如果要修改默认打开目录，需要使用如下cmd命令找到配置文件存放位置：
+    
+    jupyter notebook --generate-config
+
+搜索 c.NotebookApp.notebook_dir ，去掉注释符#，填入默认打开路径，注意转义字符。
+
+![img](../images/conda08.png)
+
+重启jupyter notebook即可。

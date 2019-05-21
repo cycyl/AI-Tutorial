@@ -7,7 +7,7 @@ Python 是跨平台的，它可以运行在 Windows、Mac 和各种 Linux/Unix �
 
  - 使用Python 2，不要使用Python 2.7以前的版本。
 
- - 2.使用Python 3，不要使用Python 3.4以前的版本。
+ - 使用Python 3，不要使用Python 3.4以前的版本。
 
 解释器下载地址：https://www.python.org/downloads/
 
