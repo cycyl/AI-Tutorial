@@ -6,7 +6,7 @@
 **学习大纲如下：**
 * [代码规范](./src/python/chapter-0/article/chapter00.md)
 * [安装与配置](./src/python/chapter-1/article/chapter01.md)
-* [基本语法](../src/python/chapter-2/article/chapter02.md)
+* [基本语法](./src/python/chapter-2/article/chapter02.md)
 * 数据类型及操作
 * 函数
 * 面向对象
