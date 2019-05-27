@@ -149,7 +149,7 @@ for i in range(len(a)):
 [0, 1, 2, 3, 4]
 ```
 
-## 3、break和continue语句及循环中的else子句 ##
+## 4、break和continue语句及循环中的else子句 ##
 
 break 语句可以跳出 for 和 while 的循环体。如果你从 for 或 while 循环中终止，任何对应的循环 else 块将不执行。 实例如下：
 ```python
@@ -198,7 +198,7 @@ for n in range(2, 10):
         print(n, ' 是质数')
 ```
 
-## 4、pass语句 ##
+## 5、pass语句 ##
 
 pass是空语句，是为了保持程序结构的完整性。
 
