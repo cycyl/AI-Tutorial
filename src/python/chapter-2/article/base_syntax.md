@@ -101,27 +101,7 @@ total = ['item_one', 'item_two', 'item_three',
 
 ----
 
-## 9、布尔值 ##
-
-布尔值和布尔代数的表示完全一致，一个布尔值只有 `True` 、 `False `两种值，要么是 `True`，要么是 `False`，在 Python 中，可以直接用 True、False 表示布尔值（请注意大小写），也可以通过布尔运算计算出来。
-
-布尔值可以用 `and`、`or` 和 `not` 运算。
-
-`and` 运算是与运算，只有所有都为 True，and 运算结果才是 True。
-
-`or` 运算是或运算，只要其中有一个为 True，or 运算结果就是 True。
-
-`not` 运算是非运算，它是一个单目运算符，把 True 变成 False，False 变成 True。
-
-----
-
-## 10、空值 ##
-
-基本上每种编程语言都有自己的特殊值——空值，在 Python 中，用 None 来表示。
-
-----
-
-## 11、空行 ##
+## 7、空行 ##
 函数之间或类的方法之间用空行分隔，表示一段新的代码的开始。类和函数入口之间也用一行空行分隔，以突出函数入口的开始。
 
 空行与代码缩进不同，空行并不是Python语法的一部分。书写时不插入空行，Python解释器运行也不会出错。但是空行的作用在于分隔两段不同功能或含义的代码，便于日后代码的维护或重构。
@@ -130,7 +110,7 @@ total = ['item_one', 'item_two', 'item_three',
 
 ----
 
-## 12、等待用户输入 ##
+## 8、等待用户输入 ##
 执行下面的程序在按回车键后就会等待用户输入：
 ```python
 input("\n\n按下 enter 键后退出。")
@@ -140,13 +120,13 @@ input("\n\n按下 enter 键后退出。")
 
 ----
 
-## 13、同一行显示多条语句 ##
+## 9、同一行显示多条语句 ##
 Python可以在同一行中使用多条语句，语句之间使用分号(;)分割，以下是一个简单的实例：
 ```python
 import sys; x = 'runoob'; sys.stdout.write(x + '\n')
 ```
 ----
-## 14、Print 输出 ##
+## 10、Print 输出 ##
 print 默认输出是换行的，如果要实现不换行需要在变量末尾加上 end=""：
 ```python
 print( 123, end=" " )
@@ -229,7 +209,7 @@ format(0.0026,'.2e')
 
 ----
 
-## 15、import 与 from...import ##
+## 11、import 与 from...import ##
 在 python 用 `import` 或者 `from...import` 来导入相应的模块。
 
 将整个模块(somemodule)导入，格式为： `import somemodule`
