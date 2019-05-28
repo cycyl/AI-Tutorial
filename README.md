@@ -9,7 +9,7 @@
 * [基本语法](./src/python/chapter-2/article/chapter02.md)
 * [数据类型详讲](./src/python/chapter-3/article/chapter03.md)
 * [函数](./src/python/chapter-4/article/chapter04.md)
-* 面向对象
+* [面向对象](./src/python/chapter-5/article/chapter05.md)
 * 模块和包
 * 异常处理
 * 文件独写
