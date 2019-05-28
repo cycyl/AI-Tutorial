@@ -19,3 +19,7 @@
 * 库-numpy
 * 库-pandas
 * 库-matplotlib和pyecharts
+
+资料：
+
+- [python标准库](https://docs.python.org/zh-cn/3/library/functions.html)
