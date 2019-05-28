@@ -10,9 +10,9 @@
 * [数据类型详讲](./src/python/chapter-3/article/chapter03.md)
 * [函数](./src/python/chapter-4/article/chapter04.md)
 * [面向对象](./src/python/chapter-5/article/chapter05.md)
-* 模块和包
+* [模块](./src/python/chapter-6/article/chapter06.md)
 * 异常处理
-* 文件独写
+* 文件读写
 * 库-time和datetime
 * 库-openpyxl
 * 库-pyodbc
@@ -22,4 +22,6 @@
 
 资料：
 
+- [Anaconda官方下载地址](https://www.anaconda.com/distribution/#download-section)
 - [python标准库](https://docs.python.org/zh-cn/3/library/functions.html)
+- [菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html)
