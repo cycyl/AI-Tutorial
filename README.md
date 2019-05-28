@@ -8,7 +8,7 @@
 * [安装与配置](./src/python/chapter-1/article/chapter01.md)
 * [基本语法](./src/python/chapter-2/article/chapter02.md)
 * [数据类型详讲](./src/python/chapter-3/article/chapter03.md)
-* 函数
+* [函数](./src/python/chapter-4/article/chapter04.md)
 * 面向对象
 * 模块和包
 * 异常处理
