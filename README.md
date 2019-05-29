@@ -11,7 +11,7 @@
 * [函数](./src/python/chapter-4/article/chapter04.md)
 * [面向对象](./src/python/chapter-5/article/chapter05.md)
 * [模块](./src/python/chapter-6/article/chapter06.md)
-* 异常处理
+* [异常处理](./src/python/chapter-7/article/chapter07.md)
 * 文件读写
 * 库-time和datetime
 * 库-openpyxl
