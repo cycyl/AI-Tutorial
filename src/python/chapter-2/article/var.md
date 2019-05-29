@@ -276,10 +276,10 @@ print(a ^ b)     # a 和 b 中不同时存在的元素
 
 ```python
 dict = {}
-dict['one'] = "1 - 菜鸟教程"
-dict[2]     = "2 - 菜鸟工具"
+dict['one'] = "1 - 教程"
+dict[2]     = "2 - 工具"
  
-tinydict = {'name': 'runoob','code':1, 'site': 'www.runoob.com'}
+tinydict = {'name': 'baidu','code':1, 'site': 'www.baidu.com'}
  
  
 print (dict['one'])       # 输出键为 'one' 的值
@@ -292,14 +292,14 @@ print (tinydict.values()) # 输出所有值
 构造函数 dict() 可以直接从键值对序列中构建字典如下：
 
 ```python
->>>dict([('Runoob', 1), ('Google', 2), ('Taobao', 3)])
-{'Taobao': 3, 'Runoob': 1, 'Google': 2}
+>>>dict([('JD', 1), ('Google', 2), ('Taobao', 3)])
+{'Taobao': 3, 'JD': 1, 'Google': 2}
  
 >>> {x: x**2 for x in (2, 4, 6)}
 {2: 4, 4: 16, 6: 36}
  
->>> dict(Runoob=1, Google=2, Taobao=3)
-{'Runoob': 1, 'Google': 2, 'Taobao': 3}
+>>> dict(JD=1, Google=2, Taobao=3)
+{'JD': 1, 'Google': 2, 'Taobao': 3}
 ```
 
 另外，字典类型也有一些内置的函数，例如clear()、keys()、values()等。
