@@ -13,7 +13,7 @@
 * [模块](./src/python/chapter-6/article/chapter06.md)
 * [异常处理](./src/python/chapter-7/article/chapter07.md)
 * [文件读写](./src/python/chapter-8/article/chapter08.md)
-* 库-time和datetime
+* [库-time和datetime](./src/python/chapter-9/article/chapter09.md)
 * 库-openpyxl
 * 库-pyodbc
 * 库-numpy
