@@ -14,7 +14,7 @@
 * [异常处理](./src/python/chapter-7/article/chapter07.md)
 * [文件读写](./src/python/chapter-8/article/chapter08.md)
 * [库-time和datetime](./src/python/chapter-9/article/chapter09.md)
-* 库-openpyxl
+* [库-openpyxl](./src/python/chapter-10/article/chapter10.md)
 * 库-pyodbc
 * 库-numpy
 * 库-pandas
