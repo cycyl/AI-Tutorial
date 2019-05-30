@@ -17,11 +17,12 @@
 * [库-openpyxl](./src/python/chapter-10/article/chapter10.md)
 * [库-pyodbc](./src/python/chapter-11/article/chapter11.md)
 * [库-numpy](./src/python/chapter-12/article/chapter12.md)
-* 库-pandas
-* 库-matplotlib和pyecharts
+* [库-pandas](./src/python/chapter-13/article/chapter13.md)
+* 库-pyecharts
 
 资料：
 
 - [Anaconda官方下载地址](https://www.anaconda.com/distribution/#download-section)
 - [python标准库](https://docs.python.org/zh-cn/3/library/functions.html)
 - [菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html)
+- [pandas中文文档](https://www.pypandas.cn/document)
