@@ -16,7 +16,7 @@
 * [库-time和datetime](./src/python/chapter-9/article/chapter09.md)
 * [库-openpyxl](./src/python/chapter-10/article/chapter10.md)
 * [库-pyodbc](./src/python/chapter-11/article/chapter11.md)
-* 库-numpy
+* [库-numpy](./src/python/chapter-12/article/chapter12.md)
 * 库-pandas
 * 库-matplotlib和pyecharts
 
