@@ -75,6 +75,7 @@ time.ctime(time.time())
 ```
 
 **struct_time元组元素结构:**
+
 |   属性   |                          值|
 |   ---   |                          ---|
 |   tm_year（年）  |                比如2011 |
@@ -89,6 +90,7 @@ time.ctime(time.time())
 
 
 **format time结构化表示:**
+
 |   格式	|   含义|
 |   ---	|   ---|
 |   %a	|   本地（locale）简化星期名称|
